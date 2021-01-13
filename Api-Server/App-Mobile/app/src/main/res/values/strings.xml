@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Data Penduduk</string>
+
+    <string name="err_email_required">Mohon mengisi email</string>
+    <string name="err_valid_email">Mohon memasukkan email yang benar</string>
+    <string name="err_password_required">Mohon mengisi password</string>
+    <string name="err_password_length">Password harus berisi minimal 6 karakter</string>
+    <string name="err_name_required">Mohon mengisi nama</string>
+    <string name="err_number_required">Mohon mengisi no. telp</string>
+    <string name="err_device_not_connected">Aplikasi tidak terhubung dengan server</string>
+    <string name="err_start_local_server">Server sedang tidak berjalan</string>
+    <string name="err_net_connection">Silahkan cek koneksi internet Anda.</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_pass">Password</string>
+    <string name="hint_current_pass">Password Sekarang</string>
+    <string name="hint_new_pass">Password Baru</string>
+    <string name="hint_name">Nama</string>
+    <string name="hint_mobile">No Telp</string>
+    <string name="hint_update_profile">Ubah Profil</string>
+    <string name="hint_change_pass">Ubah Password</string>
+    <string name="lbl_sign_up">Daftar</string>
+    <string name="lbl_login">Masuk</string>
+    <string name="lbl_logout">Keluar</string>
+    <string name="lbl_account_delete">Hapus Akun</string>
+    <string name="lbl_create_at">Buat akun baru ?</string>
+    <string name="hint_save">Simpan</string>
+</resources>
